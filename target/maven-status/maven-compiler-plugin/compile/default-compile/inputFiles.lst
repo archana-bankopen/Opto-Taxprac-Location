@@ -1,0 +1,17 @@
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/model/GstDto.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/dao/PractitionerLocationServiceImpl.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/helper/ConvertToJson.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/controller/PractitionerListController.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/util/BadRequestException.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/service/PractitionerLocationService.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/repository/PractitionerLocationRepository.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/MainApplication.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/model/PractitionerModel.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/model/GstPractitionerList.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/util/HttpRequest.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/helper/DefaultExchangeToMonoImpl.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/util/JsonResponse.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/helper/Todos.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/model/AddressModel.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/model/PractitionerList.java
+/Users/archana.s/Desktop/spring-boot-master/spring-data-jpa-postgresql/src/main/java/com/mkyong/helper/TodosService.java
