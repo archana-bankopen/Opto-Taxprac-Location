@@ -9,12 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MainApplication {
 
     private static final Logger log = LoggerFactory.getLogger(MainApplication.class);
-
     public static void main(String[] args) {
         System.out.println("Application Starts..");
         SpringApplication.run(MainApplication.class, args);
     }
-
-
-
 }
